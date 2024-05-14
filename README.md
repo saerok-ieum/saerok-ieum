@@ -2,7 +2,7 @@
 
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/CSS-D14836?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -13,6 +13,10 @@
 ### 🌱 saerok-ieum mean ?
 세화의 기록을 이어주는 곳으로 _성장하는 삶을 나누는 공간_
 
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saerok-ieum)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saerok-ieum)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
